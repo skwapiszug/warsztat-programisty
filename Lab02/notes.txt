@@ -1,2 +1,3 @@
 Notatki z Lab02
 Druga linia
+Linia  z klonu
